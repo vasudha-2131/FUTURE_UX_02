@@ -1,5 +1,6 @@
 # FUTURE_UX_02
 📄 Mobile App UI Design Rationale: Aura Yoga Studio
+Aura Yoga Studio is a modern ,mobile first appoitmentt booking application designed to create a seamless scheduling experience for wellness enthusiasts. Built with a cohesive visual brand identity, the app combines an organic,calming aesthetic with highly intuitive usability to minimize friction from onboarding to final confirmation .
 
 👥 1. Target Users
 The target audience for Aura Yoga Studio consists of health-conscious individuals, busy working professionals, and fitness enthusiasts who value wellness but have limited time.
